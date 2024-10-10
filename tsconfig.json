@@ -2,7 +2,7 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "strict": true,                                      /* Enable all strict type-checking options. */
-    "strictNullChecks": true,                            /* When type checking, take into account 'null' and 'undefined'. */
+  "strictNullChecks": true,                            /* When type checking, take into account 'null' and 'undefined'. */
     "lib": ["dom", "es2016"],                            /* Specify library files to be included in the compilation. */
     "outDir": "./lib/cjs/",                              /* Redirect output structure to the directory. */
     "sourceMap": true,                                   /* Generates corresponding '.map' file. */

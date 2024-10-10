@@ -1,31 +1,26 @@
 ---
+import MainLayout from '../layouts/Layout.astro';
 import Sidebar from '../layouts/SideBar.astro'
 import Card from '../components/Card.astro';
 import Carousel from '../layouts/Carousel.astro'
 import { getCollection } from 'astro:content';
-const products = getCollection('collection');
+const products = getCollection('menu');
 
 ---
 <!DOCTYPE html>
-<html lang="es">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Index</title>
-	</head>
-	<body class="ml-80 mt-10 mr-14">
+<MainLayout title='title'>
+	<main class="ml-80 mt-10 mr-14">
 		<Sidebar></Sidebar>
-		<main class=" flex-col">
+		<div class=" flex-col">
 			<div class="w-full mb-10">
 				<Carousel></Carousel>
 			</div>
 			<div class="w-full flex"><!--Iterar las cards por los products -->
 				<Card title='title' description='' price={1234} image=''></Card>
 			</div>
-		</main>
-	</body>
-</html>
-
+		</div>
+	</main>
+</MainLayout>
 <!-- <Layout title="Welcome to Astro.">
 	<main>
 		<svg
