@@ -1,0 +1,200 @@
+[
+    {
+        "title": "Nuggets de pollo",
+        "description": "Ingredientes: Pollo.",
+        "price": 7100,
+        "image": "static/Imagenes/productos/picoteo_1.png"
+    },
+    {
+        "title": "Empanadas de queso",
+        "description": "Ingredientes: Masa, queso. 12 Unidades.",
+        "price": 4700,
+        "image": "static/Imagenes/productos/picoteo_2.jpg"
+    },
+    {
+        "title": "Palos de queso",
+        "description": "Ingredientes: Masa pan, queso.",
+        "price": 4900,
+        "image": "static/Imagenes/productos/picoteo_3.png"
+    },
+    {
+        "title": "Palos de ajo",
+        "description": "Ingredientes: Masa, ajo.",
+        "price": 4900,
+        "image": "static/Imagenes/productos/picoteo_4.png"
+    },
+    {
+        "title": "Arrollado primavera",
+        "description": "Ingredientes: Carne molida, repollo.",
+        "price": 4500,
+        "image": "static/Imagenes/productos/picoteo_5.png"
+    },
+    {
+        "title": "Camembert apanado",
+        "description": "Ingredientes: Queso, pimenton, pimienta.",
+        "price": 4500,
+        "image": "static/Imagenes/productos/picoteo_6.png"
+    },
+    {
+        "title": "Mini Strudels de Champiñones",
+        "description": "Ingredientes: Champiñones, perejil, queso cabra.",
+        "price": 3500,
+        "image": "static/Imagenes/productos/picoteo_7.png"
+    },
+    {
+        "title": "Tortilla Gourmet",
+        "description": "Ingredientes: Tomate, choclo, huevos.",
+        "price": 3000,
+        "image": "static/Imagenes/productos/picoteo_8.png"
+    },
+    {
+        "title": "Wrap de Pollo al Cardamomo",
+        "description": "Ingredientes: Pollo, ajo, jengibre, cardamomo.",
+        "price": 3500,
+        "image": "static/Imagenes/productos/picoteo_9.png"
+    },
+    {
+        "title": "Papas fritas simples",
+        "description": "Ingredientes: Papas, sal.",
+        "price": 3000,
+        "image": "static/Imagenes/productos/papas_fritas_1.png"
+    },
+    {
+        "title": "Papas al horno",
+        "description": "Ingredientes: Papas, guacamole, ajo.",
+        "price": 4000,
+        "image": "static/Imagenes/productos/papas_fritas_2.png"
+    },
+    {
+        "title": "Papas Americanas",
+        "description": "Ingredientes: Papas, aceite de oliva, pimienta.",
+        "price": 3000,
+        "image": "static/Imagenes/productos/papas_fritas_3.png"
+    },
+    {
+        "title": "Tocino cheddar",
+        "description": "Ingredientes: Queso cheddar, tocino.",
+        "price": 3500,
+        "image": "static/Imagenes/productos/papas_fritas_4.png"
+    },
+    {
+        "title": "Papas bravas",
+        "description": "Ingredientes: Ajo, pimienta, salsa de tomate.",
+        "price": 4500,
+        "image": "static/Imagenes/productos/papas_fritas_5.png"
+    },
+    {
+        "title": "Papas a la pizza",
+        "description": "Ingredientes: Pizza, oregano, albahaca.",
+        "price": 8000,
+        "image": "static/Imagenes/productos/papas_fritas_6.png"
+    },
+    {
+        "title": "Papas BBQ",
+        "description": "Ingredientes: Queso manchego, salsa BBQ, tocino, aji.",
+        "price": 3500,
+        "image": "static/Imagenes/productos/papas_fritas_7.png"
+    },
+    {
+        "title": "Salchipapas",
+        "description": "Ingredientes: Cebolla, tomate, aji, salchichas.",
+        "price": 4000,
+        "image": "static/Imagenes/productos/papas_fritas_8.png"
+    },
+    {
+        "title": "Papas fritas muelle",
+        "description": "Ingredientes: Queso cheddar, tomate, carne molida, crema acida.",
+        "price": 3500,
+        "image": "static/Imagenes/productos/papas_fritas_9.png"
+    },
+    {
+        "title": "Coca-Cola",
+        "description": "Bebida gaseosa cl\u00e1sica, refrescante.",
+        "price": 2500,
+        "image": "static/Imagenes/productos/bebidas_1.png"
+    },
+    {
+        "title": "Coca-Cola Zero",
+        "description": "Versi\u00f3n sin az\u00facar de Coca-Cola.",
+        "price": 2500,
+        "image": "static/Imagenes/productos/bebidas_2.png"
+    },
+    {
+        "title": "Sprite",
+        "description": "Bebida gaseosa de sabor lima-lim\u00f3n.",
+        "price": 2500,
+        "image": "static/Imagenes/productos/bebidas_3.png"
+    },
+    {
+        "title": "Fanta",
+        "description": "Refresco de sabor naranja, sin cafe\u00edna.",
+        "price": 2500,
+        "image": "static/Imagenes/productos/bebidas_4.png"
+    },
+    {
+        "title": "Agua Mineral",
+        "description": "Agua mineral sin gas, botella de 500ml.",
+        "price": 1500,
+        "image": "static/Imagenes/productos/bebidas_5.png"
+    },
+    {
+        "title": "Agua Mineral con Gas",
+        "description": "Agua mineral con gas, botella de 500ml.",
+        "price": 1500,
+        "image": "static/Imagenes/productos/bebidas_6.png"
+    },
+    {
+        "title": "Jugo de Naranja",
+        "description": "Jugo natural de naranja, sin az\u00facar a\u00f1adida.",
+        "price": 3000,
+        "image": "static/Imagenes/productos/bebidas_7.png"
+    },
+    {
+        "title": "Jugo de Mango",
+        "description": "Jugo refrescante de mango, sin conservantes.",
+        "price": 3000,
+        "image": "static/Imagenes/productos/bebidas_8.png"
+    },
+    {
+        "title": "Limonada",
+        "description": "Limonada fresca con un toque de menta.",
+        "price": 3500,
+        "image": "static/Imagenes/productos/bebidas_9.png"
+    },
+    {
+        "title": "T\u00e9 Helado de Durazno",
+        "description": "Refrescante t\u00e9 helado sabor durazno.",
+        "price": 3200,
+        "image": "static/Imagenes/productos/bebidas_10.png"
+    },
+    {
+        "title": "Caf\u00e9 Fr\u00edo",
+        "description": "Caf\u00e9 fr\u00edo preparado con espresso y leche.",
+        "price": 3800,
+        "image": "static/Imagenes/productos/bebidas_11.png"
+    },
+    {
+        "title": "Batido de Fresa",
+        "description": "Batido de fresa con leche, ideal para el verano.",
+        "price": 4000,
+        "image": "static/Imagenes/productos/bebidas_12.png"
+    },
+    {
+        "title": "Batido de Chocolate",
+        "description": "Batido cremoso de chocolate.",
+        "price": 4000,
+        "image": "static/Imagenes/productos/bebidas_13.png"
+    },
+    {
+        "title": "T\u00e9 Matcha Latte",
+        "description": "T\u00e9 matcha con leche, servido fr\u00edo.",
+        "price": 4200,
+        "image": "static/Imagenes/productos/bebidas_14.png"
+    },
+    {
+        "title": "Licuado de Banana",
+        "description": "Licuado de banana con leche y az\u00facar.",
+        "price": 3700,
+        "image": "static/Imagenes/productos/bebidas_15.png"
+    }
+]
